@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Mriganka",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrigankaharsh/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mriganka Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrigankaharsh/namaste-react/issues"
+  },
+  "homepage": "https://github.com/mrigankaharsh/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
